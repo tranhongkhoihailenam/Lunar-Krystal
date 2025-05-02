@@ -14,9 +14,9 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Krystal [BETA]",
-    "AMDIN_NAME": "Điền tên bạn vào đây",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "BOTNAME": "🐧",
+    "AMDIN_NAME": "khoine",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/100092916672573",
     "PREFIX": "/",
     "LOGIN": {
         "EMAIL": "",
@@ -24,10 +24,10 @@
         "OTPKEY": ""
     },
     "ADMINBOT": [
-        "100018277053087"
+        "100092916672573"
     ],
     "NDH": [
-        "100018277053087"
+        "100092916672573"
     ],
     "DATABASE": {
         "sqlite": {
